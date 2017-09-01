@@ -833,3 +833,35 @@ u"""
 """,
 )
 
+entry(
+    index = 26,
+    label = "decylcyclohexane",
+    molecule = "CCCCCCCCCCC1CCCCC1",
+    solvent = SolventData(
+        s_g = 0,
+        b_g = 0,
+        e_g = 0,
+        l_g = 0.986,
+        a_g = 0,
+        c_g = 0.053,
+        s_h = 0.0,
+        b_h = 0.0,
+        e_h = 2.999,
+        l_h = -9.279,
+        a_h = 0.0,
+        c_h = -6.708,
+        A = -134.91,
+        B = 6054.2,
+        C = 19.337,
+        D = -2.443e-05,
+        E = 2,
+        alpha = 0,
+        beta = 0,
+        eps = 2.0,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)

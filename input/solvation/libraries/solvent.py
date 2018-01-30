@@ -865,3 +865,36 @@ u"""
 
 """,
 )
+
+entry(
+    index = 27,
+    label = "ethylcyclohexane",
+    molecule = "CCC1CCCCC1",
+    solvent = SolventData(
+        s_g = 0,
+        b_g = 0,
+        e_g = -0.11,
+        l_g = 1.013,
+        a_g = 0,
+        c_g = 0.163,
+        s_h = 0.0,
+        b_h = 0.0,
+        e_h = 3.375,
+        l_h = -9.078,
+        a_h = 0.0,
+        c_h = -6.507,
+        A = -33.763,
+        B = 2497.2,
+        C = 3.2236,
+        D = 0,
+        E = 0,
+        alpha = 0,
+        beta = 0,
+        eps = 2.0,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)

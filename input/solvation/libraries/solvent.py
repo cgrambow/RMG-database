@@ -898,3 +898,36 @@ u"""
 
 """,
 )
+
+entry(
+    index = 28,
+    label = "C30H62",
+    molecule = "CCCCCCCCCCC(CCCCCCCC)CC(C)CCCCCCCC",
+    solvent = SolventData(
+        s_g = 0,
+        b_g = 0,
+        e_g = 0,
+        l_g = 1,
+        a_g = 0,
+        c_g = 0,
+        s_h = 0.0,
+        b_h = 0.0,
+        e_h = 2.999,
+        l_h = -9.279,
+        a_h = 0.0,
+        c_h = -6.708,
+        A = -20.182,
+        B = 2203.5,
+        C = 1.2289,
+        D = 0,
+        E = 0,
+        alpha = 0,
+        beta = 0,
+        eps = 2.08,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)
